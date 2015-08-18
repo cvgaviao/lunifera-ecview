@@ -17,7 +17,7 @@
   </build>
   <parent>
   	<groupId>org.lunifera.ecview.core</groupId>
-  	<artifactId>org.lunifera.ecview.core</artifactId>
+  	<artifactId>lunifera-ecview</artifactId>
   	<version>0.9.1-SNAPSHOT</version>
   </parent>
   <packaging>eclipse-plugin</packaging>

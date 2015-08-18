@@ -6,7 +6,7 @@
 	<description>Tests for the common core issues</description>
 	<parent>
 		<groupId>org.lunifera.ecview.core</groupId>
-		<artifactId>org.lunifera.ecview.core</artifactId>
+		<artifactId>lunifera-ecview</artifactId>
 		<version>0.9.1-SNAPSHOT</version>
 	</parent>
 	<packaging>eclipse-test-plugin</packaging>
